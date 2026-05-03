@@ -5,7 +5,7 @@
 
 <!-- TITLE -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Fear+the+old+blood.;Seek+Paleblood+to+transcend+the+Hunt." alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=IM+Fell+English+SC&size=26&pause=2000&color=C9A84C&center=true&vCenter=true&width=600&lines=Full-Stack+Developer;Code.+Fight.+Survive.;The+storm+never+stopped+me." alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -36,16 +36,26 @@ Currently deepening my studies in **Python**, **SQL** and **web development**, a
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
 
+---
+
 <div align="center">
-  <img width="480px" src="https://raw.githubusercontent.com/fepsl/fepsl/main/char.gif" alt="character"/>
+<table>
+  <tr>
+    <td valign="middle">
+      <table>
+        <tr><td>◈ Class</td><td>Full-Stack Developer</td></tr>
+        <tr><td>◈ Origin</td><td>Brazil</td></tr>
+        <tr><td>◈ Covenant</td><td>Open Source</td></tr>
+        <tr><td>◈ Build</td><td>INT / DEX</td></tr>
+        <tr><td>◈ Status</td><td>Unbroken. Built from the storm.</td></tr>
+      </table>
+    </td>
+    <td valign="middle">
+      <img width="380px" src="https://raw.githubusercontent.com/fepsl/fepsl/main/char.gif" alt="character"/>
+    </td>
+  </tr>
+</table>
 </div>
-
-
-◈  Class     →  Full-Stack Developer
-◈  Origin    →  Brazil 🇧🇷
-◈  Covenant  →  Open Source
-◈  Build     →  INT / DEX
-◈  Status    →  Hunter. Refuses to go hollow.
 
 ---
 
@@ -85,7 +95,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 ---
 
-## 📜 Contribution Graph
+## Contribution Graph
 
 <div align="center">
 
@@ -95,18 +105,18 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 ---
 
-## 🕯️ Bonfires Lit — Education
+## The Grind — Education
 
 | | Course | Status |
 |:---:|:---|:---:|
-| ◈ | SEU CURSO 1 | 🔄 In Progress |
-| ◈ | SEU CURSO 2 | 🔄 In Progress |
-| ◈ | SEU CURSO 3 | ✅ Complete |
-| ◈ | SEU CURSO 4 | ✅ Complete |
+| ◈ | SEU CURSO 1 | In Progress |
+| ◈ | SEU CURSO 2 | In Progress |
+| ◈ | SEU CURSO 3 | Complete |
+| ◈ | SEU CURSO 4 | Complete |
 
 ---
 
-## 🗡️ Featured Projects
+## Featured Projects
 
 <div align="center">
 
@@ -118,6 +128,6 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-*† Seek Paleblood to transcend the Hunt †*
+*The ocean rages.*
 
 </div>
