@@ -1,6 +1,6 @@
 <!-- BANNER -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/fepsl/readme/main/banner.gif" width="100%" alt="banner"/>
+  <img src="https://raw.githubusercontent.com/fepsl/fepsl/main/banner.gif" width="100%" alt="banner"/>
 </div>
 
 <!-- TITLE -->
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=ladymnria&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=fepsl&style=flat-square&color=c9a84c&label=PROFILE+VIEWS)
 
 </div>
 
@@ -36,7 +36,7 @@ Currently deepening my studies in **Python**, **SQL** and **web development**, a
 
 I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node.js**, **Git** and am currently exploring **AWS & Cloud Computing**.
 
-<img align="right" width="240px" src="https://raw.githubusercontent.com/fepsl/readme/main/char.gif" alt="character"/>
+<img align="right" width="240px" src="https://raw.githubusercontent.com/fepsl/fepsl/main/char.gif" alt="character"/>
 
 <br clear="right"/>
 
@@ -74,12 +74,12 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=ladymnria&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
+<img src="https://streak-stats.demolab.com?user=fepsl&theme=dark&ring=c9a84c&fire=c9a84c&currStreakLabel=c9a84c&background=0d0d0d&border=2a2a2a&stroke=2a2a2a&dates=888888&sideLabels=c9a84c" alt="streak"/>
 
 <br/><br/>
 
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=ladymnria&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ladymnria&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=fepsl&show_icons=true&theme=dark&title_color=c9a84c&icon_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&count_private=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fepsl&layout=compact&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a"/>
 
 </div>
 
@@ -89,7 +89,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ladymnria&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/ladymnria)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=fepsl&bg_color=0d0d0d&color=c9a84c&line=c9a84c&point=ffffff&area=true&area_color=1a1200&hide_border=false&border_color=2a2a2a&title_color=c9a84c)](https://github.com/fepsl)
 
 </div>
 
@@ -110,7 +110,7 @@ I also have experience with **HTML**, **CSS**, **JavaScript**, **React**, **Node
 
 <div align="center">
 
-[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=ladymnria&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/ladymnria/SEU_REPO)
+[![SEU_REPO](https://github-readme-stats.vercel.app/api/pin/?username=fepsl&repo=SEU_REPO&theme=dark&title_color=c9a84c&text_color=cccccc&bg_color=0d0d0d&border_color=2a2a2a&icon_color=c9a84c)](https://github.com/fepsl/SEU_REPO)
 
 </div>
 
